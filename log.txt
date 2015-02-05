@@ -1,0 +1,7 @@
+Jennifer Retter
+Work log for Assignment 4
+
+Start: Wed, 4 Feb 2015 20:58:13 -0600
+End: Wed, 4 Feb 2015 21:28:13 -0600
+Tasks: I set up the repository for assignment 4 and read the instructions. I created files
+for the src files. I started on the first file, multtable, until I got too confused.
