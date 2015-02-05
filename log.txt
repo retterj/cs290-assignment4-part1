@@ -5,3 +5,8 @@ Start: Wed, 4 Feb 2015 20:58:13 -0600
 End: Wed, 4 Feb 2015 21:28:13 -0600
 Tasks: I set up the repository for assignment 4 and read the instructions. I created files
 for the src files. I started on the first file, multtable, until I got too confused.
+
+Start: Thurs, 5 Feb 2015 10:18:13 -0600
+End: Wed, 4 Feb 2015 11:07:13 -0600
+Tasks: I worked on multtable to the best of my abilities. I added some comments and researched possible code that could work.
+
