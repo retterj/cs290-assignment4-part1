@@ -1,25 +1,24 @@
 <!--needs 4 parameters from GET request: min-multiplicand--!>
 <!--max-multiplicand, min-multiplier, max-multiplier--!>
+<!DOCTYPE html>
+	<?php
+		$_GET["min-multiplicand"];
+		$_GET["max-multiplicand"];
+		$_GET["min-multiplier"];
+		$_GET["max-multiplier"];
+	?>
+		if (<?php $_GET['min-multiplicand']>$_GET['max-multiplicand']?>){
+			echo "Minimum multiplicand is larger than maximum multiplicand. <br>";
+		}
 
-<html>
-	<form action="http://web.engr.oregonstate.edu/~retterj/multtable.php" method="get">
-		<p>GET data</p>    <!--Get version; same code for both-->
-		<p>min-multiplicand: <input type="number" name="min-multiplicand"></p>
-		<p>max-multiplicand: <input type="number" name="max-multiplicand"></p>
-		<p>min-multiplier: <input type="number" name="min-multiplier"></p>
-		<p>max-multiplier: <input type="number" name="max-multipler"></p>
-		
-		
-		<input type="submit" value="Submit">	
-	</form>
-	
-<!-- Check min/max here--!>
-<!--if wrong, print "Minimum larger than maximum"--!>
-<--!if correct, then fill in in table below--!>
+		if (<?php $_GET['min-multiplier']>$_GET['max-multiplier']?>){
+			echo "Minimum multiplier is larger than maximum multiplier. <br>";
+		}
+
 	
 	<table>
 		<tbody>
 			<tr>
-				<td><!--Here is where the data does--!> </td>
+				<td>$_GET['min-multiplier']</td>
 			</tr>
 </html>
