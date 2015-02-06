@@ -7,9 +7,13 @@ Tasks: I set up the repository for assignment 4 and read the instructions. I cre
 for the src files. I started on the first file, multtable, until I got too confused.
 
 Start: Thurs, 5 Feb 2015 10:18:13 -0600
-End: Wed, 4 Feb 2015 11:07:13 -0600
+End: Thurs, 5 Feb 2015 11:07:13 -0600
 Tasks: I worked on multtable to the best of my abilities. I added some comments and researched possible code that could work.
 
 Start: Thurs, 5 Feb 2015 7:45:13 -0600
-End: Wed, 4 Feb 2015 11:07:13 -0600
+End: Thurs, 5 Feb 2015 11:07:13 -0600
 Tasks: I updated multtable slightly after reading the discussion boards. I started on the loopback file.
+
+Start: Thurs, 5 Feb 2015 23:50:13 -0600
+End: Fri, 6 Feb 2015 00:46:13 -0600
+Tasks: Attempted more on the loopback file. Limited progress. Rewatched some lecture videos and researched what to do.
