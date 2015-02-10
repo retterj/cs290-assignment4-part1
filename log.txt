@@ -17,3 +17,11 @@ Tasks: I updated multtable slightly after reading the discussion boards. I start
 Start: Thurs, 5 Feb 2015 23:50:13 -0600
 End: Fri, 6 Feb 2015 00:46:13 -0600
 Tasks: Attempted more on the loopback file. Limited progress. Rewatched some lecture videos and researched what to do.
+
+Start: Sun, 8 Feb 2015 19:12:13 -0600
+End: Sun, 8 Feb 2015 23:00:00 -0600
+Tasks: Met with tutor and made checklist of what is left to do on Assignment 4. Worked with tutor on multtable.
+
+Start: Tue, 10 Feb 14:47:00 -0600
+End: Tue, 10 Feb 15:25:00 -0600
+Tasks: Added to multtable and started login.php. Stopped because Filezilla won't connect. Will resume later today.
